@@ -7,6 +7,6 @@ public abstract class Shape {
     String color = "red";
     
     public Shape(Integer width, Integer length) {
-        
+        String color = "red";
     }
 }
